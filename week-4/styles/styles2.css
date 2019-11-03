@@ -1,0 +1,60 @@
+div {
+    width: 600px;
+    margin: 0 auto;
+    background-color: white;
+    padding: 0 20px 20px 20px;
+   display: flex;
+   flex-direction: column;
+  }
+  html{
+    background-color:cornsilk;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 10px;
+
+}
+img {
+    width: 400px;
+    height:500px;
+}
+p, li {
+    font-size: 1.4em; 
+}
+h1 {
+    font-size: 2.4em;
+    line-height: 1.5em;
+}
+h2 {
+    font-size: 2.1em;
+}
+#main-page { 
+    font-size: 1.7em;
+}
+a:link {
+    color: crimson;
+}
+a:visited {
+    color: darkolivegreen;
+}
+a:hover { 
+    color: rgb(253, 5, 5); background-color: darkolivegreen; text-decoration: none;
+}
+a:active {
+    color: darkolivegreen; background-color: rgb(253, 5, 5); text-decoration: none;
+}
+header {
+    background-color: lightblue;
+    color: darkslateblue;
+    border-bottom: 0.3em solid;
+    padding: 10px 20px;
+    width: 600px;
+    box-sizing: border-box; 
+}
+main {
+    max-width: 600px;
+}
+aside{
+    /*this adds in a border */
+    border: mediumslateblue 5px dashed;
+    /*this adds in some space so it's not so squished to the border*/
+    padding: 5px;
+}

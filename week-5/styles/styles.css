@@ -1,0 +1,57 @@
+html{
+    background-color:cornsilk;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 10px;
+}
+div {
+    width: 600px;
+    margin: 0 auto;
+    background-color: white;
+    padding: 0 20px 20px 20px;
+   display: flex;
+   flex-direction: column;
+  }
+#ji {
+    font-family: 'Yeseva One', cursive;
+    color: lightseagreen
+  }
+  nav {
+    font-size: 15px;
+    padding-left: 15px;
+}
+.intro {
+    position: relative;
+    color: rgb(95, 29, 201);
+    font-family: 'Playfair Display', serif;
+    font-size: 15px;
+    padding: 10px;
+  }
+
+  footer {
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rosybrown;
+    max-width:300px;
+    height: 10px;
+}
+
+header {
+background-color:white;
+margin: 10px;
+padding-left: 10px;
+padding-right: 10px;
+}
+
+img {
+  width: 60%;
+  float: left;
+  padding-right: 2em;
+}
+section#description {
+  clear: left;
+  padding-top: 10px;
+  font-size: 12px;
+  }
+  
+
+

@@ -1,0 +1,25 @@
+html{
+    background-color:cornsilk;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 10px;
+}
+div {
+    width: 600px;
+    margin: 0 auto;
+    background-color: white;
+    padding: 0 20px 20px 20px;
+   display: flex;
+   flex-direction: column;
+  }
+#ji {
+    font-family: 'Yeseva One', cursive;
+    color: lightseagreen
+  }
+  #bout {
+    font-size: 30px;
+}
+.titles {
+    color: black;
+    font-family: 'Playfair Display', serif;
+  }
+  
